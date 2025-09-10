@@ -1,0 +1,79 @@
+{
+  "hash": "dbdd806c",
+  "configHash": "309cfb4b",
+  "lockfileHash": "40e854cf",
+  "browserHash": "c65283a0",
+  "optimized": {
+    "@angular/cdk/drag-drop": {
+      "src": "../../../../../../node_modules/@angular/cdk/fesm2022/drag-drop.mjs",
+      "file": "@angular_cdk_drag-drop.js",
+      "fileHash": "e3439e74",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "da9ad193",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d3f4a141",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "abe1df51",
+      "needsInterop": false
+    },
+    "ag-charts-enterprise": {
+      "src": "../../../../../../node_modules/ag-charts-enterprise/dist/package/main.esm.mjs",
+      "file": "ag-charts-enterprise.js",
+      "fileHash": "5e585fbc",
+      "needsInterop": false
+    },
+    "ag-grid-angular": {
+      "src": "../../../../../../node_modules/ag-grid-angular/fesm2022/ag-grid-angular.mjs",
+      "file": "ag-grid-angular.js",
+      "fileHash": "9aed9faa",
+      "needsInterop": false
+    },
+    "ag-grid-community": {
+      "src": "../../../../../../node_modules/ag-grid-community/dist/package/main.esm.mjs",
+      "file": "ag-grid-community.js",
+      "fileHash": "0e9e680e",
+      "needsInterop": false
+    },
+    "ag-grid-enterprise": {
+      "src": "../../../../../../node_modules/ag-grid-enterprise/dist/package/main.esm.mjs",
+      "file": "ag-grid-enterprise.js",
+      "fileHash": "a97cf7ec",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "c728f56f",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-P3YIXFUL": {
+      "file": "chunk-P3YIXFUL.js"
+    },
+    "chunk-SDJ7FANZ": {
+      "file": "chunk-SDJ7FANZ.js"
+    },
+    "chunk-VNLVQSXI": {
+      "file": "chunk-VNLVQSXI.js"
+    },
+    "chunk-ICYOA4AM": {
+      "file": "chunk-ICYOA4AM.js"
+    },
+    "chunk-O6F7RUPP": {
+      "file": "chunk-O6F7RUPP.js"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "angular.dev",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/cdk": "^20.2.1",
+    "@angular/common": "^20.2.3",
+    "@angular/compiler": "^20.2.3",
+    "@angular/core": "^20.2.3",
+    "@angular/forms": "^20.2.3",
+    "@angular/material": "^20.2.1",
+    "@angular/platform-browser": "^20.2.3",
+    "@angular/router": "^20.2.3",
+    "ag-charts-enterprise": "^12.1.2",
+    "ag-grid-angular": "^34.1.2",
+    "ag-grid-enterprise": "^34.1.2",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@angular/build": "^20.2.1",
+    "@angular/cli": "^20.2.1",
+    "@angular/compiler-cli": "^20.2.3",
+    "@types/node": "^16.11.35",
+    "ts-node": "~10.9.0",
+    "typescript": "~5.8.0"
+  }
+}
